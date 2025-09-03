@@ -4,7 +4,7 @@
 class AnimalsInZoo{
 
 public:
-	AnimalsInZoo(const Animal &animal);
+	AnimalsInZoo(Animal animal);
 	AnimalsInZoo();
 	void display();
 private:

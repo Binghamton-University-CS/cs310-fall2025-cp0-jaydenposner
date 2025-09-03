@@ -9,6 +9,6 @@ public:
 	void display();
 private:
 	int numAnimals;
-	Animal animal;
+	Animal animalStore;
 };
 #endif
